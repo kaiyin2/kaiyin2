@@ -17,13 +17,13 @@ I created this website using **Markdown** and **GitHub Pages**.
 
 I enjoy working on hardware and software projects, including embedded systems and web development.
 
-Check out [GitHub](https://github.com) to explore more coding projects!
+Check out [GitHub](https://github.com/kaiyin2) to explore more coding projects!
 
 ## My Favorite Image
 
 Here's a picture of the University of Michigan campus:
 
-![University of Michigan](https://upload.wikimedia.org/wikipedia/commons/8/8b/University_of_Michigan_Law_Quadrangle.jpg)
+![University of Michigan](https://tour.umich.edu/uploads/law-quad-02.jpg)
 
 ## Contact
 
